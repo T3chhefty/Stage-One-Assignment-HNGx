@@ -33,3 +33,17 @@ img {
   border-radius: 50rem;
   margin: 1em;
 }
+
+
+/* media querry */
+@media screen  and (max-width:720px){
+    .container{
+width: 90%;
+    }
+}
+
+@media screen  and (max-width:1020px){
+    .container{
+width: 70%;
+    }
+}
